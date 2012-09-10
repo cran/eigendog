@@ -1,0 +1,4 @@
+import(rjson)
+import(bit)
+import(hash)
+export( eigendog.trainResult , eigendog.predict )
